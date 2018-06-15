@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.host.url\=https\://sonarqube.lmera.ericsson.se/\r\nsonar.login\=e01b724fc32f5dca69c1f0de06dcba77afb9ca9e
+projectKey=com.websystique.springboot\:SpringBootRestApiExample
+serverUrl=http\://localhost\:9000
+version=2
