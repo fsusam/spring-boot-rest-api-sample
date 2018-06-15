@@ -1,5 +1,6 @@
 # spring-boot-rest-api-sample
 mvn clean install spring-boot:run
+
 test link
 http://localhost:8080/SpringBootRestApi/api/user/
 
